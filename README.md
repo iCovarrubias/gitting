@@ -1,3 +1,3 @@
 # gitting
 
-This is in the master branch, do not change on master.
+This is in branchA.
